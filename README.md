@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_Website-jccidc.com-gold?style=for-the-badge)](https://jccidc.com)
 [![Discord](https://img.shields.io/badge/💬_Discord-JimmyCrakCrn-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JimmyCrakCrn)
-[![Portfolio](https://img.shields.io/badge/📄_Full_Portfolio-View_Here-brightgreen?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/📄_Full_Portfolio-View_Here-brightgreen?style=for-the-badge)](https://github.com/200df7/200df7/blob/master/JimmyCrakCrn_Portfolio_v2.md)
 [![Marketplace](https://img.shields.io/badge/⭐_Downloads-58K+-orange?style=for-the-badge)](https://cronusmax.com)
 
 </div>
@@ -23,11 +23,11 @@ Building **production systems that generate real revenue**, not portfolio demos.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=200df7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=200df7&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=200df7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=200df7&layout=compact&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=C9D1D9&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=200df7&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+![GitHub Streak](https://streak-stats.demolab.com/?user=200df7&theme=dark&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
 
 </div>
 
@@ -36,7 +36,7 @@ Building **production systems that generate real revenue**, not portfolio demos.
 ## 💼 What I Build
 
 ### 🖥️ Desktop Applications
-**GPC Builder** *(Coming Soon)* — Tauri/Rust desktop app
+**GPC Builder** — Tauri/Rust desktop app
 - AI-powered code generation (Claude API)
 - Visual OLED designer with drag-and-drop
 - Component system with dependency resolution
@@ -158,7 +158,7 @@ All systems built with production requirements from day one: error recovery, mon
 
 **Want to see the complete picture?**
 
-👉 **[View Comprehensive Portfolio Document](#)** 👈
+👉 **[View Comprehensive Portfolio Document](https://github.com/200df7/200df7/blob/master/JimmyCrakCrn_Portfolio_v2.md)** 👈
 
 Detailed breakdowns of:
 - Technical architecture and challenges solved
