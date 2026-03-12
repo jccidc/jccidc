@@ -14,7 +14,7 @@
   <img height="180em" src="https://stats.jimmycc.com/api/top-langs/?username=jccidc&layout=compact&langs_count=7&theme=tokyonight&v=2"/>
 </a>
 
-I'm a Systems-Focused Automation Engineer specializing in production systems that generate real revenue. I solve constraint-based problems across the full technical spectrum—from hardware-adjacent scripting to AI-powered content pipelines to cross-platform desktop applications.
+I'm a Systems-Focused Automation Engineer specializing in production systems that generate real revenue. I solve constraint-based problems across the full technical spectrum, from hardware-adjacent scripting to AI-powered content pipelines to cross-platform desktop applications.
 
 I'm an authorized developer on the Cronus Marketplace with 58K+ downloads across 20+ production scripts, and I build full-stack web platforms (React + Express.js), desktop applications (Tauri + Rust), and automation workflows (n8n) that run 24/7 with 99.9% uptime. You'll find me working on projects across many different fields.
 
