@@ -10,8 +10,8 @@
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:legal@jccidc.com)
 
 <a href="https://github.com/jccidc">
-  <img height="180em" src="https://stats.jimmycc.com/api?username=jccidc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
-  <img height="180em" src="https://stats.jimmycc.com/api/top-langs/?username=jccidc&layout=compact&langs_count=7&theme=tokyonight&v=2"/>
+  <img height="180em" src="https://stats.jimmycc.com/api?username=jccidc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=3"/>
+  <img height="180em" src="https://stats.jimmycc.com/api/top-langs/?username=jccidc&layout=compact&langs_count=7&theme=tokyonight&v=3"/>
 </a>
 
 I'm a Systems-Focused Automation Engineer specializing in production systems that generate real revenue. I solve constraint-based problems across the full technical spectrum, from hardware-adjacent scripting to AI-powered content pipelines to cross-platform desktop applications.
